@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Galaxy Watch 5",
+      "brand": "Samsung",
+      "price": 1500,
+      "color": "White"
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "price": 1800,
+      "color": "Silver"
+    },
+    {
+      "id": 3,
+      "name": "Fossil Gen 6",
+      "brand": "Fossil",
+      "price": 1300,
+      "color": "Brown"
+    },
+    {
+      "id": 4,
+      "name": "Garmin Fenix 7",
+      "brand": "Garmin",
+      "price": 2000,
+      "color": "Gray"
+    },
+    {
+      "id": 5,
+      "name": "Amazfit GTR 4",
+      "brand": "Amazfit",
+      "price": 900,
+      "color": "Red"
+    }
+  ]
+  
